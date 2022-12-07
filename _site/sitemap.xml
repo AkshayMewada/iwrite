@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/iwrite/2020/01/29/sample.html</loc>
+<lastmod>2020-01-29T09:15:13+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/iwrite/about.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/iwrite/contact.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/iwrite/posts/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/iwrite/</loc>
+</url>
+</urlset>
